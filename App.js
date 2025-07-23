@@ -1,5 +1,5 @@
 import React from 'react';
 function App() {
-  return <h1>Welcome to Lokal Bazaar</h1>;
+  return <div>Hello Lokal Bazaar!</div>;
 }
 export default App;
